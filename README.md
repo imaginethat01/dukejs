@@ -20,3 +20,6 @@ Hosted on Heroku @  https://jsduke.herokuapp.com/
 
 <h4>Simply let the Game Install (Yes, I know it takes a while. That's how things were.)</h4>
 <h4>Once Setup is Complete type in NUKEM2.EXE" - The game should start</h4>
+
+HEADPHONE WARNING : The audio takes a second to kick in and may crackle loudly when first starting.
+
