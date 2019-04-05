@@ -1,2 +1,17 @@
 # dukejs
 The Classic Duke Nukem II - 1993 - Running inside of DOS BOX ... Inside of a Web Browser. 
+
+<HR>
+
+<img src="https://upload.wikimedia.org/wikipedia/en/1/17/Apogee_Software.png">
+
+<h1>Apogee Classic... And this time the sound works!</h1>
+
+This one works well. I'm kind of surprised actually. 
+
+Just install the game. The DOS installer adds to the charm. It takes a second to install - this just adds to the authenticity of the expirience. 
+
+Hosted on Heroku @  https://jsduke.herokuapp.com/
+
+
+<img src="https://www.playdosgames.com/assets/screenshots/duke-nukem-2_3.png">
