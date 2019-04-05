@@ -15,3 +15,8 @@ Hosted on Heroku @  https://jsduke.herokuapp.com/
 
 
 <img src="https://www.playdosgames.com/assets/screenshots/duke-nukem-2_3.png">
+
+<h2>For those of you not used to DOS</h2>
+
+<h4>Simply let the Game Install (Yes, I know it takes a while. That's how things were.)</h4>
+<h4>Once Setup is Complete type in NUKEM2.EXE" - The game should start</h4>
